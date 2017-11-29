@@ -8,7 +8,7 @@ This game was built as a Udacity Course project. The purpose of the project is t
 
 How to Load the game
 
-Clone the repo and open index.html 
+Clone the repo and open index.html or go to https://10nry.github.io/memory_game/ .
 
 How to Play the Game
 
